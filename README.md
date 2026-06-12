@@ -94,3 +94,6 @@ Las imágenes se encuentran en `src/imagenes/` y se sirven bajo `/imagenes/`:
  
 ### `GET /search/ab` → 400
 ![searchab](src/CapturasPruebas/searchab.png)
+
+### `http://localhost:4321/imagenes/qatar-2022.avif`
+<img width="1609" height="919" alt="imagen" src="https://github.com/user-attachments/assets/ec34890d-107a-4463-9f70-1a96246a3056" />
